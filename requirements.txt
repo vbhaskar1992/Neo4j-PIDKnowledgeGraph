@@ -1,0 +1,30 @@
+
+Flask==3.0.3
+flask-cors==4.0.0
+Flask-RESTful==0.3.10
+
+# ---- Database Connectivity ----
+pymongo==4.10.1          # MongoDB client
+neo4j==5.26.0            # Neo4j driver
+
+langchain
+langchain-openai
+langchain-community
+langgraph
+chromadb
+networkx
+fastapi
+uvicorn
+fastapi
+python-dotenv
+google-generativeai
+langchain_groq
+
+langchain-core
+langchain-community
+langchain-experimental
+langchain-ollama
+yfiles-jupyter-graphs
+pydantic
+langchain-text-splitters
+flask-cors
